@@ -36,8 +36,7 @@ The sentiment analysis follows these steps:
 ## Sentiment Calculation
 The system calculates an overall sentiment score using:
 
-```text
-Overall Score = Positive Score - Negative Score
+
 
 ```text
 Overall Score = Positive Score - Negative Score
